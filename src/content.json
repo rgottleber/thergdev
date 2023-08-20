@@ -1,0 +1,373 @@
+[
+ 	{
+		"title": "How To Create an ERC-1155 Contract: The Swiss Army Knife of Ethereum Tokens",
+		"url": "https://www.youtube.com/watch?v=mM77Ta-g7Hs",
+		"published": "2023-08-13",
+		"type": "Video",
+		"where": "YouTube"
+	},
+ 	{
+		"title": "Understanding Zero-Knowledge Proofs",
+		"url": "https://www.youtube.com/watch?v=mfqW1wYV0q4",
+		"published": "2023-08-05",
+		"type": "Video",
+		"where": "YouTube"
+	},
+ 	{
+		"title": "How To Get a Random Number Using Chainlink VRF V2",
+		"url": "https://www.youtube.com/watch?v=AcDRNEKY1L0",
+		"published": "2023-07-27",
+		"type": "Video",
+		"where": "YouTube"
+	},
+ 	{
+		"title": "How To Transfer Tokens and Send Data Cross-Chain With Chainlink CCIP",
+		"url": "https://www.youtube.com/watch?v=yJ1mXgumOAk",
+		"published": "2023-07-21",
+		"type": "Video",
+		"where": "YouTube"
+	},
+ 	{
+		"title": "Intro to Smart Contract Testing",
+		"url": "https://www.youtube.com/watch?v=oxIvul8D_L4",
+		"published": "2023-07-09",
+		"type": "Video",
+		"where": "YouTube"
+	},
+ 	{
+		"title": "How To Use Chainlink Functions (Updated) | Chainlink Engineering Tutorials",
+		"url": "https://www.youtube.com/watch?v=I-g1aaZ3_x4",
+		"published": "2023-06-26",
+		"type": "Video",
+		"where": "YouTube"
+	},
+ 	{
+		"title": "Fuzztastic Foundry: Fuzz Testing for Solidity Smart Contracts",
+		"url": "https://www.youtube.com/watch?v=-_UDn0ROS9c",
+		"published": "2023-07-30",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	 	{
+		"title": "Tokenized Tickets: How NFTs Are Hitting All the Right Notes in Concert Ticketing",
+		"url": "https://www.youtube.com/watch?v=IAQdM3TcYkI",
+		"published": "2023-06-25",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	 	{
+		"title": "Bringing OpenAI To Blockchains With Chainlink Functions",
+		"url": "https://www.youtube.com/watch?v=U9OGYkQyboo",
+		"published": "2023-07-16",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	 	{
+		"title": "How To Test Smart Contracts With Hardhat",
+		"url": "https://www.youtube.com/watch?v=OR_EIS7m_Wk",
+		"published": "2023-03-08",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "How To Use Chainlink Functions | Chainlink Engineering Tutorials",
+		"url": "https://www.youtube.com/watch?v=nKRZ1R2BC4Q",
+		"published": "2023-03-04",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "What's Chainlink Functions",
+		"url": "https://youtube.com/shorts/4DUWOh6IDls",
+		"published": "2023-03-01",
+		"type": "Short",
+		"where": "YouTube"
+	},
+	{
+		"title": "How To Authenticate Web3 Users With SvelteKit and Ethers.js",
+		"url": "https://www.youtube.com/watch?v=_DujVl7kOmA",
+		"published": "2023-07-02",
+		"type": "Video",
+		"where": "YouTube"
+	}, 	 
+	{
+		"title": "How To Get a User's MetaMask Wallet Balance Using a Smart Contract",
+		"url": "https://youtube.com/shorts/4sHtNteDaCo",
+		"published": "2023-01-28",
+		"type": "Short",
+		"where": "YouTube"
+	}, 	
+	{
+		"title": "What does require mean in solidity?",
+		"url": "https://youtube.com/shorts/Bz97KPhbW0g",
+		"published": "2023-01-27",
+		"type": "Short",
+		"where": "YouTube"
+	},
+	{
+		"title": "What Is Hashing?",
+		"url": "https://youtube.com/shorts/f1L_YYcRen4",
+		"published": "2023-01-20",
+		"type": "Short",
+		"where": "YouTube"
+	},
+	{
+		"title": "How To Store Unlimited Data On-Chain Using Merkle Trees, Typescript, Solidity, and Hardhat",
+		"url": "https://www.youtube.com/watch?v=YjbYxyGZcMw",
+		"published": "2023-06-25",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "What Are Merkle Trees?",
+		"url": "https://youtube.com/shorts/UpW0gAkkkIw",
+		"published": "2023-01-13",
+		"type": "Short",
+		"where": "YouTube"
+	},
+	{
+		"title": "How To Use Chainlink Automation To Trigger Smart Contracts",
+		"url": "https://www.youtube.com/watch?v=dj0impNJdls",
+		"published": "2022-12-18",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "Web3 Mobile App Development Resources",
+		"url": "https://blog.chain.link/web3-mobile-app-development-resources/",
+		"published": "2022-12-13",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},	
+ 	{
+		"title": "How To Stake LINK | Chainlink Staking Tutorial",
+		"url": "https://www.youtube.com/watch?v=wfSETSSDG6c",
+		"published": "2022-12-06",
+		"type": "Video",
+		"where": "YouTube"
+	},
+ 	{
+		"title": "How To Connect a Hardware Wallet to MetaMask",
+		"url": "https://www.youtube.com/watch?v=uI2NpkiUKsQ",
+		"published": "2022-11-16",
+		"type": "Video",
+		"where": "YouTube"
+	},	
+ 	{
+		"title": "How to Self-Custody Crypto ...",
+		"url": "https://www.youtube.com/watch?v=D8OMlCP_e-M",
+		"published": "2022-11-16",
+		"type": "Video",
+		"where": "YouTube"
+	},	
+	{
+		"title": "Build a Dynamic Asset Monitoring NFT in 15 Minutes ",
+		"url": "https://www.youtube.com/watch?v=7dINpoH2Kzc",
+		"published": "2022-10-05",
+		"type": "Conference Talk",
+		"where": "SmartCon 2022"
+	},
+	{
+		"title": "How DevRel Can Help Web3 Startups Succeed",
+		"url": "https://www.youtube.com/watch?v=-fbHqS-8QoU",
+		"published": "2022-10-05",
+		"type": "Video",
+		"where": "YouTube"
+	},	
+	{
+		"title": "Smart Contract Automation Masterclass | Module #3 Dynamic NFTs",
+		"url": "https://www.youtube.com/watch?v=FirUe1YCcqs",
+		"published": "2022-09-16",
+		"type": "Video",
+		"where": "YouTube"
+	},	
+	{
+		"title": "How To Build Timelock Smart Contracts",
+		"url": "https://blog.chain.link/timelock-smart-contracts/",
+		"published": "2022-09-07",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},		
+	{
+		"title": "How To Create Self-Automating Smart Contracts",
+		"url": "https://www.youtube.com/watch?v=9uUk9neDqcM",
+		"published": "2022-08-31",
+		"type": "Video",
+		"where": "YouTube"
+	},	
+	{
+		"title": "How To Create a Time-Based Upkeep With Chainlink Keepers v1.2",
+		"url": "https://www.youtube.com/watch?v=6GIvqgqHcLc",
+		"published": "2022-08-24",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "Chainlink Labs 🛠 Solving the oracle problem",
+		"url": "https://www.youtube.com/watch?v=WxgpI0Aqbdw",
+		"published": "2022-08-17",
+		"type": "Webinar",
+		"where": "ETH Global"
+	},
+	{
+		"title": "Encode x Chainlink Hackathon: Technical Workshop",
+		"url": "https://www.youtube.com/watch?v=850kBm0EmCQ",
+		"published": "2022-08-02",
+		"type": "Webinar",
+		"where": "Encode Club"
+	},
+	{
+		"title": "How to Navigate Etherscan",
+		"url": "https://www.youtube.com/watch?v=1pK7_gYlQec",
+		"published": "2022-08-03",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "How To Read A Smart Contract On Etherscan",
+		"url": "https://blog.chain.link/how-to-read-smart-contract/",
+		"published": "2022-07-23",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},
+	{
+		"title": "Open Chainlink Starter Kits in Gitpod",
+		"url": "https://www.youtube.com/watch?v=_epSwqMEydY",
+		"published": "2022-07-21",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "How To Mint an NFT",
+		"url": "https://blog.chain.link/how-to-mint-an-nft/",
+		"published": "2022-07-13",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},
+	{
+		"title": "How To Create an NFT Game",
+		"url": "https://blog.chain.link/how-to-create-an-nft-game/",
+		"published": "2022-06-23",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},
+	{
+		"title": "How To Build A Crypto Game",
+		"url": "https://blog.chain.link/how-to-build-a-crypto-game/",
+		"published": "2022-06-16",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},
+	{
+		"title": "How To Create a BEP-20 Token on BNB Chain",
+		"url": "https://blog.chain.link/how-to-create-a-bep-20-token/",
+		"published": "2022-04-05",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},
+	{
+		"title": "How to Create an ERC-20 Token on Polygon",
+		"url": "https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/",
+		"published": "2022-03-17",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},
+	{
+		"title": "How to Display Crypto and Fiat Prices on a Frontend Using JavaScript or Solidity",
+		"url": "https://blog.chain.link/how-to-display-crypto-and-fiat-prices-on-a-frontend/",
+		"published": "2022-02-09",
+		"type": "Blog",
+		"where": "blog.chain.link"
+	},
+	{
+		"title": "How To Build a Blockchain Gaming DApp",
+		"url": "https://www.youtube.com/watch?v=niqxn57vx9k",
+		"published": "2022-06-16",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "How To Create Dynamic NFTs Using Chainlink Keepers",
+		"url": "https://www.youtube.com/watch?v=E7Rm1LUKhj4",
+		"published": "2022-05-18",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "How To Build a Web3 Game: Code Along",
+		"url": "https://www.youtube.com/watch?v=bPfTBr2D1gc",
+		"published": "2022-05-05",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "Running a Local Chainlink Node: Code Along",
+		"url": "https://www.youtube.com/watch?v=DO3O6ZUtwbs",
+		"published": "2022-05-02",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "How to Create a BEP-20 Token on BNB Chain",
+		"url": "https://www.youtube.com/watch?v=If6h0y9JnJQ",
+		"published": "2022-04-05",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "How to Create an ERC-20 Token on Polygon ",
+		"url": "https://www.youtube.com/watch?v=h8SKFy6yqus",
+		"published": "2022-03-20",
+		"type": "Video",
+		"where": "YouTube"
+	},
+	{
+		"title": "VRF",
+		"url": "https://www.youtube.com/watch?v=r5S5sh73qEQ",
+		"published": "2022-06-30",
+		"type": "Webinar",
+		"where": "Encode Club"
+	},
+	{
+		"title": "Building dApps using Chainlink",
+		"url": "https://www.youtube.com/watch?v=7jdnPShJfbE",
+		"published": "2022-06-15",
+		"type": "Webinar",
+		"where": "BUIDL IT"
+	},
+	{
+		"title": "Chainlink: Building and deployment of a dynamic NFT",
+		"url": "https://www.youtube.com/watch?v=iajFPg_8OAU",
+		"published": "2022-03-29",
+		"type": "Conference Talk",
+		"where": "Dystopia Labs"
+	},
+	{
+		"title": "What is Chainlink?",
+		"url": "https://www.youtube.com/watch?v=ROBvziyjz4Y",
+		"published": "2022-02-11",
+		"type": "Webinar",
+		"where": "Developer DAO"
+	},
+	{
+		"title": "What is Chainlink / Oracles and Automation",
+		"url": "https://www.youtube.com/watch?v=4WUNm_0qtQ4",
+		"published": "2022-03-22",
+		"type": "Webinar",
+		"where": "ETHGlobal"
+	},
+	{
+		"title": "Chainlink Labs Conference",
+		"url": "https://www.youtube.com/watch?v=5qljGnfpexg",
+		"published": "2022-01-22",
+		"type": "Webinar",
+		"where": "Cal Poly"
+	},
+	{
+		"title": "Solving the Oracle problem with Chainlink",
+		"url": "https://www.youtube.com/watch?v=nvnzeXNoNtM",
+		"published": "2022-03-01",
+		"type": "Webinar",
+		"where": "Devfolio Community"
+	}
+]
