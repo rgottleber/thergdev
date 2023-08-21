@@ -5,7 +5,23 @@ export default {
 		extend: {fontFamily: {
 			monolisaregular: ["MonoLisaRegular", "sans-serif"],
 			monolisabold: ["MonoLisaBold", "sans-serif"],
-		}}
+		},
+		typography: {
+			DEFAULT: {
+			  css: {
+				color: '#f8f8f2',
+				fontFamily: 'monolisaregular',
+				a: {
+				  color: '#8AFF80',
+				  textDecoration: 'underline',
+				  '&:hover': {
+					color: '#9580FF',
+				  },
+				},
+			  },
+			},
+		  },
+		}
 		
 	},
 	daisyui: {
@@ -29,7 +45,9 @@ export default {
 	},
 	
 
-	plugins: [require("daisyui")],
+	plugins: [require("daisyui"),
+	  require('@tailwindcss/typography'),],
+
 	safelist: [
 		'shadow-secondary',
 		'shadow-error',
