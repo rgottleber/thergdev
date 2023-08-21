@@ -40,7 +40,7 @@
 	</p>
 
 	<div
-		class="pt-4 prose lg:prose-xl prose-headings:text-accent prose-a:text-success prose-a:visited:text-success prose-a:no-underline prose-em:text-info prose-strong:text-warning prose-code:text-secondary"
+		class="pt-4 prose lg:prose-xl prose-headings:text-accent prose-a:text-success prose-a:visited:text-success prose-a:underline prose-em:text-info prose-strong:text-warning prose-code:text-secondary"
 	>
 		<svelte:component this={content} />
 	</div>
