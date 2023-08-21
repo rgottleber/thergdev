@@ -2,19 +2,19 @@
 	export let data;
 </script>
 
-<div class="container w-full md:max-w-3xl mx-auto pt-2 font-iawriter">
+<div class="container w-full md:max-w-3xl mx-auto pt-2 font-monolisaregular">
 	{#each data.posts as post}
 		<div class="w-full px-4 md:px-6 text-xl leading-normal">
 			<!--Title-->
 			<div>
 				<a href={`/posts/${post.slug}`}>
 					<h1
-						class="font-bold font-iawriter break-normal text-success hover:text-accent pt-6 pb-2 text-3xl md:text-5xl"
+						class="font-monolisabold break-normal text-success hover:text-accent pt-6 pb-2 text-3xl md:text-5xl"
 					>
 						{post.title}
 					</h1>
 				</a>
-				<p class="text-sm md:text-base font-normal text-secondary">
+				<p class="text-sm md:text-base font-monolisaregular text-secondary">
 					{new Date(post.date).toDateString()}
 				</p>
 			</div>
